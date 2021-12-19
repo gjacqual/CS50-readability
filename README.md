@@ -1,5 +1,5 @@
 # CS50-readability
-pset2
+CS50 pset2
 
 IMPORTANT: Do not copy this code to submit your project, as this violates the cs50's academic honesty: https://cs50.harvard.edu/x/2020/honesty/
 
